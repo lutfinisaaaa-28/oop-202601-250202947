@@ -18,8 +18,8 @@ saya buat dalam tiga gaya (prosedural, OOP, fungsional) di kelas terpisah pada p
 Pada saat mengecek mengecek maven ternyata java belum ke donwload akhirnya harus mendonwload terlebih dahulu dan pada saat pengecekan terdapat eror karna salah penulisan kode.
 
 ## Penggunaan AI
-- Alat yang dipakai: (Claude)
-- Bagian yang dibantu AI: (Saat mencari kode baru saat eror pada saat pengecekan)
-- Prompt utama: (Pada saat mendonwload java winget install EclipseAdoptium.Temurin.21.JDK)
-- Yang saya ubah atau tolak dari saran AI, dan alasannya: (Tidak ada)
-- Satu hal yang saya pahami lebih baik sekarang:(Gambaran memasukan kode dan fungsional)
+- Alat yang dipakai: Claude
+- Bagian yang dibantu AI: Saat mencari kode baru saat eror pada saat pengecekan
+- Prompt utama: Pada saat mendonwload java winget install EclipseAdoptium.Temurin.21.JDK
+- Yang saya ubah atau tolak dari saran AI, dan alasannya: Tidak ada
+- Satu hal yang saya pahami lebih baik sekarang:Gambaran memasukan kode dan fungsional
