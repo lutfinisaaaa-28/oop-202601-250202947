@@ -1,4 +1,4 @@
-# Catatan Minggu 01 NN: (Paradigma Pemograman dan Stup)
+# Catatan Minggu 01 : (Paradigma Pemograman dan Stup)
 
 Salin berkas ini menjadi `catatan/minggu-NN.md` (NN dua digit, misalnya `minggu-07.md`).
 
